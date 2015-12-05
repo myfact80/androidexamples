@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TraceTravel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="category_manager_title">카테고리 설정</string>
+    <string name="category_manager_btn_save">저장</string>
+    
+
+</resources>
